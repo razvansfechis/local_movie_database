@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\FileRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\FileRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\FileRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\FileRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\UserService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\UserService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\UserRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\DynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\DynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Movie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Movie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\UserRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\base_headers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\base_headers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B6E2125-3E58-488E-8DFE-AE348E1B2955}|local_movie_database\\local_movie_database.vcxproj|solutionrelative:local_movie_database\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\HTMLRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:local_movie_database\\HTMLRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\HTMLRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:local_movie_database\\HTMLRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\CSVRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:local_movie_database\\CSVRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\CSVRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:local_movie_database\\CSVRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileRepository.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\FileRepository.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\FileRepository.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\FileRepository.cpp",
+              "RelativeToolTip": "local_movie_database\\FileRepository.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T08:33:04.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserService.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\UserService.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserService.cpp",
+              "RelativeToolTip": "local_movie_database\\UserService.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:30:05.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserService.h",
+              "RelativeDocumentMoniker": "local_movie_database\\UserService.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserService.h",
+              "RelativeToolTip": "local_movie_database\\UserService.h",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:30:12.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Service.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Service.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Service.h",
+              "RelativeToolTip": "local_movie_database\\Service.h",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:26:48.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserRepository.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\UserRepository.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserRepository.cpp",
+              "RelativeToolTip": "local_movie_database\\UserRepository.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:30:32.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validator.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Validator.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Validator.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Validator.h",
+              "RelativeToolTip": "local_movie_database\\Validator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T22:08:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileRepository.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\FileRepository.h",
+              "RelativeDocumentMoniker": "local_movie_database\\FileRepository.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\FileRepository.h",
+              "RelativeToolTip": "local_movie_database\\FileRepository.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-02T08:33:18.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exceptions.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Exceptions.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Exceptions.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Exceptions.h",
+              "RelativeToolTip": "local_movie_database\\Exceptions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T22:08:01.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Console.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Console.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Console.h",
+              "RelativeToolTip": "local_movie_database\\Console.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:26:21.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Console.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Console.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\Console.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Console.cpp",
+              "RelativeToolTip": "local_movie_database\\Console.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:26:27.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Repository.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\Repository.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Repository.cpp",
+              "RelativeToolTip": "local_movie_database\\Repository.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:27:16.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\DynamicArray.h",
+              "RelativeDocumentMoniker": "local_movie_database\\DynamicArray.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\DynamicArray.h",
+              "RelativeToolTip": "local_movie_database\\DynamicArray.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:26:12.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HTMLRepository.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\HTMLRepository.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\HTMLRepository.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\HTMLRepository.cpp",
+              "RelativeToolTip": "local_movie_database\\HTMLRepository.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:36:39.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HTMLRepository.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\HTMLRepository.h",
+              "RelativeDocumentMoniker": "local_movie_database\\HTMLRepository.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\HTMLRepository.h",
+              "RelativeToolTip": "local_movie_database\\HTMLRepository.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T11:36:29.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CSVRepository.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\CSVRepository.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\CSVRepository.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\CSVRepository.cpp",
+              "RelativeToolTip": "local_movie_database\\CSVRepository.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:36:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CSVRepository.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\CSVRepository.h",
+              "RelativeDocumentMoniker": "local_movie_database\\CSVRepository.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\CSVRepository.h",
+              "RelativeToolTip": "local_movie_database\\CSVRepository.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T11:36:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAFYHAAAAAAAAAAAawGQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-08T22:13:43.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserRepository.h",
+              "RelativeDocumentMoniker": "local_movie_database\\UserRepository.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\UserRepository.h",
+              "RelativeToolTip": "local_movie_database\\UserRepository.h",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:30:23.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Main.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\Main.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Main.cpp",
+              "RelativeToolTip": "local_movie_database\\Main.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:29:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Repository.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Repository.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Repository.h",
+              "RelativeToolTip": "local_movie_database\\Repository.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:27:08.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Service.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\Service.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Service.cpp",
+              "RelativeToolTip": "local_movie_database\\Service.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:26:56.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tests.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Tests.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Tests.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Tests.h",
+              "RelativeToolTip": "local_movie_database\\Tests.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:26:40.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tests.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Tests.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\Tests.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Tests.cpp",
+              "RelativeToolTip": "local_movie_database\\Tests.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAgwMEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:26:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "base_headers.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\base_headers.h",
+              "RelativeDocumentMoniker": "local_movie_database\\base_headers.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\base_headers.h",
+              "RelativeToolTip": "local_movie_database\\base_headers.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:25:48.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cpp",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Movie.cpp",
+              "RelativeDocumentMoniker": "local_movie_database\\Movie.cpp",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Movie.cpp",
+              "RelativeToolTip": "local_movie_database\\Movie.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-08T16:25:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Movie.h",
+              "DocumentMoniker": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Movie.h",
+              "RelativeDocumentMoniker": "local_movie_database\\Movie.h",
+              "ToolTip": "C:\\Users\\razva\\Documents\\GitHub\\git_sixth_semester\\oop-a6-7-razvansfechis\\local_movie_database\\local_movie_database\\Movie.h",
+              "RelativeToolTip": "local_movie_database\\Movie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-08T16:25:34.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

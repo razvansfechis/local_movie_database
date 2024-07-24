@@ -1,0 +1,13 @@
+﻿  UserRepository.cpp
+C:\Users\razva\Documents\GitHub\git_sixth_semester\oop-a6-7-razvansfechis\local_movie_database\local_movie_database\DynamicArray.h(39,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'UserRepository.cpp')
+  C:\Users\razva\Documents\GitHub\git_sixth_semester\oop-a6-7-razvansfechis\local_movie_database\local_movie_database\DynamicArray.h(39,29):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\razva\Documents\GitHub\git_sixth_semester\oop-a6-7-razvansfechis\local_movie_database\local_movie_database\UserRepository.cpp(7,6):
+  	see reference to class template instantiation 'DynamicArray<Movie>' being compiled
+  	C:\Users\razva\Documents\GitHub\git_sixth_semester\oop-a6-7-razvansfechis\local_movie_database\local_movie_database\DynamicArray.h(38,9):
+  	while compiling class template member function 'int DynamicArray<Movie>::nrEntitiesGetter(void) const'
+  		C:\Users\razva\Documents\GitHub\git_sixth_semester\oop-a6-7-razvansfechis\local_movie_database\local_movie_database\UserRepository.cpp(27,2):
+  		see the first reference to 'DynamicArray<Movie>::nrEntitiesGetter' in 'UserRepository::getNumberOfElementsUserRepository'
+  
+  local_movie_database.vcxproj -> C:\Users\razva\Documents\GitHub\git_sixth_semester\oop-a6-7-razvansfechis\local_movie_database\x64\Debug\local_movie_database.exe

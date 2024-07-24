@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Domain">
+      <UniqueIdentifier>{d58cac58-dd28-4458-a648-238d310168cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynamicArray">
+      <UniqueIdentifier>{6b6363c5-da99-48d5-8746-3f7784a83791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Repository">
+      <UniqueIdentifier>{508dab86-7007-4d5e-b257-ed398567a828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service">
+      <UniqueIdentifier>{64a58552-e7df-46de-8a92-78736009720b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{0195bdfb-9f4a-4ea6-9c39-4ad795fe00b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Console">
+      <UniqueIdentifier>{da551b7c-d000-49de-859f-0d98a25181e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exceptions">
+      <UniqueIdentifier>{a74b14fc-c5c2-45d2-9a74-a4539ba3aaae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files">
+      <UniqueIdentifier>{52ab46a2-806a-4869-aa2d-f2edb91ef20a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Movie.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="base_headers.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicArray.h">
+      <Filter>DynamicArray</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Console</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository.h">
+      <Filter>Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="UserService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="UserRepository.h">
+      <Filter>Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="Exceptions.h">
+      <Filter>Exceptions</Filter>
+    </ClInclude>
+    <ClInclude Include="Validator.h">
+      <Filter>Exceptions</Filter>
+    </ClInclude>
+    <ClInclude Include="FileRepository.h">
+      <Filter>Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Movie.cpp">
+      <Filter>Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Console</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository.cpp">
+      <Filter>Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="UserService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="UserRepository.cpp">
+      <Filter>Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="FileRepository.cpp">
+      <Filter>Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
