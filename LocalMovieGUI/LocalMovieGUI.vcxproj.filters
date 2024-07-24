@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="LocalMovieGUI.cpp" />
+    <ClCompile Include="Movie.cpp">
+      <Filter>Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="FileRepository.cpp">
+      <Filter>Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository.cpp">
+      <Filter>Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="UserRepository.cpp">
+      <Filter>Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="UserService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="LocalMovieGUI.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="LocalMovieGUI.h" />
+    <QtMoc Include="MainWindow.h">
+      <Filter>UI</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="LocalMovieGUI.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Domain">
+      <UniqueIdentifier>{3582f47a-5c85-46b7-8474-873f0cba3f6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DynamicArray">
+      <UniqueIdentifier>{dbadb372-20b3-4a6e-ab28-b30bd1888a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exceptions">
+      <UniqueIdentifier>{183aa0cd-ba88-466e-8824-c67f5bf3726e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files">
+      <UniqueIdentifier>{1cd50321-14aa-4989-9fa9-b563cba26633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Repository">
+      <UniqueIdentifier>{06dd9923-6676-4427-83d1-3269f016ab7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service">
+      <UniqueIdentifier>{7316b75a-3afc-4e65-87bb-fce15661c2af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{a82bfd87-cb65-4ef0-a51f-3a1f29e04b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{8d1d635e-2500-4747-85e2-648dc6ca1f58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="base_headers.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="Movie.h">
+      <Filter>Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicArray.h">
+      <Filter>DynamicArray</Filter>
+    </ClInclude>
+    <ClInclude Include="Exceptions.h">
+      <Filter>Exceptions</Filter>
+    </ClInclude>
+    <ClInclude Include="Validator.h">
+      <Filter>Exceptions</Filter>
+    </ClInclude>
+    <ClInclude Include="FileRepository.h">
+      <Filter>Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository.h">
+      <Filter>Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="UserRepository.h">
+      <Filter>Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="UserService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LocalMovieGUI.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="watch_list.csv">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="watch_list.html">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="movies.txt">
+      <Filter>Resources</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
